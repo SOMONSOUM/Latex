@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.14159265-2.6-0.99998 (TeX Live 2017/W32TeX) (preloaded format=xelatex 2017.11.29)  30 NOV 2017 02:52
+This is XeTeX, Version 3.14159265-2.6-0.99998 (TeX Live 2017/W32TeX) (preloaded format=xelatex 2017.11.29)  30 NOV 2017 09:39
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -8,8 +8,8 @@ LaTeX2e <2017-04-15>
 Babel <3.10> and hyphenation patterns for 84 language(s) loaded.
 (c:/texlive/2017/texmf-dist/tex/latex/base/article.cls
 Document Class: article 2014/09/29 v1.4h Standard LaTeX document class
-(c:/texlive/2017/texmf-dist/tex/latex/base/size12.clo
-File: size12.clo 2014/09/29 v1.4h Standard LaTeX file (size option)
+(c:/texlive/2017/texmf-dist/tex/latex/base/size10.clo
+File: size10.clo 2014/09/29 v1.4h Standard LaTeX file (size option)
 )
 \c@part=\count79
 \c@section=\count80
@@ -573,40 +573,66 @@ LaTeX Info: Redefining \rmfamily on input line 17.
 .................................................
 . fontspec info: "no-scripts"
 . 
-. Font "Khmer OS Content" does not contain any OpenType `Script' information.
+. Font "Khmer OS" does not contain any OpenType `Script' information.
+.................................................
+\g__fontspec_family_KhmerOS_int=\count161
+.................................................
+. fontspec info: "no-font-shape"
+. 
+. Could not resolve font "Khmer OS/BI" (it probably doesn't exist).
+.................................................
+.................................................
+. fontspec info: "no-font-shape"
+. 
+. Could not resolve font "Khmer OS/B" (it probably doesn't exist).
+.................................................
+.................................................
+. fontspec info: "no-font-shape"
+. 
+. Could not resolve font "Khmer OS/I" (it probably doesn't exist).
+.................................................
+.................................................
+. fontspec info: "defining-font"
+. 
+. Font family 'KhmerOS(0)' created for font 'Khmer OS' with options
+. [Ligatures=TeX,Ligatures=TeX].
+.  
+.  This font family consists of the following NFSS series/shapes:
+.  
+. - 'normal' (m/n) with NFSS spec.: <->"Khmer OS/OT:mapping=tex-text;"
+. - 'small caps'  (m/sc) with NFSS spec.: 
 .................................................
 LaTeX Info: Redefining \sffamily on input line 18.
 .................................................
 . fontspec info: "no-scripts"
 . 
-. Font "Khmer OS Content" does not contain any OpenType `Script' information.
+. Font "Khmer OS" does not contain any OpenType `Script' information.
 .................................................
 .................................................
 . fontspec info: "no-font-shape"
 . 
-. Could not resolve font "Khmer OS Content/BI" (it probably doesn't exist).
+. Could not resolve font "Khmer OS/BI" (it probably doesn't exist).
 .................................................
 .................................................
 . fontspec info: "no-font-shape"
 . 
-. Could not resolve font "Khmer OS Content/B" (it probably doesn't exist).
+. Could not resolve font "Khmer OS/B" (it probably doesn't exist).
 .................................................
 .................................................
 . fontspec info: "no-font-shape"
 . 
-. Could not resolve font "Khmer OS Content/I" (it probably doesn't exist).
+. Could not resolve font "Khmer OS/I" (it probably doesn't exist).
 .................................................
 .................................................
 . fontspec info: "defining-font"
 . 
-. Font family 'KhmerOSContent(1)' created for font 'Khmer OS Content' with
-. options
+. Font family 'KhmerOS(1)' created for font 'Khmer OS' with options
 . [WordSpace={1,0,0},HyphenChar=None,PunctuationSpace=WordSpace,Ligatures=TeX].
 
 .  
 .  This font family consists of the following NFSS series/shapes:
 .  
-. - 'normal' (m/n) with NFSS spec.: <->"Khmer OS Content/OT:mapping=tex-text;"
+. - 'normal' (m/n) with NFSS spec.: <->"Khmer OS/OT:mapping=tex-text;"
 . - 'small caps'  (m/sc) with NFSS spec.: 
 . and font adjustment code:
 . \fontdimen 2\font =1\fontdimen 2\font \fontdimen 3\font =0\fontdimen 3\font
@@ -635,27 +661,27 @@ LaTeX Font Info:    ... okay on input line 35.
 *geometry* detected driver: xetex
 *geometry* verbose mode - [ preamble ] result:
 * driver: xetex
-* paper: a4paper
+* paper: a5paper
 * layout: <same size as paper>
 * layoutoffset:(h,v)=(0.0pt,0.0pt)
 * modes: 
-* h-part:(L,W,R)=(28.45274pt, 540.60239pt, 28.45274pt)
-* v-part:(T,H,B)=(42.67912pt, 759.6886pt, 42.67912pt)
-* \paperwidth=597.50787pt
-* \paperheight=845.04684pt
-* \textwidth=540.60239pt
-* \textheight=759.6886pt
-* \oddsidemargin=-43.81725pt
-* \evensidemargin=-43.81725pt
+* h-part:(L,W,R)=(14.22636pt, 392.64806pt, 14.22636pt)
+* v-part:(T,H,B)=(42.67912pt, 512.14963pt, 42.67912pt)
+* \paperwidth=421.10078pt
+* \paperheight=597.50787pt
+* \textwidth=392.64806pt
+* \textheight=512.14963pt
+* \oddsidemargin=-58.04362pt
+* \evensidemargin=-58.04362pt
 * \topmargin=-66.59087pt
 * \headheight=12.0pt
 * \headsep=25.0pt
-* \topskip=12.0pt
+* \topskip=10.0pt
 * \footskip=30.0pt
-* \marginparwidth=35.0pt
-* \marginparsep=10.0pt
+* \marginparwidth=3.0pt
+* \marginparsep=11.0pt
 * \columnsep=10.0pt
-* \skip\footins=10.8pt plus 4.0pt minus 2.0pt
+* \skip\footins=9.0pt plus 4.0pt minus 2.0pt
 * \hoffset=0.0pt
 * \voffset=0.0pt
 * \mag=1000
@@ -709,17 +735,17 @@ LaTeX Font Info:    Try loading font information for OMX+zplm on input line 37.
 File: omxzplm.fd 2002/09/08 Fontinst v1.914 font definitions for OMX/zplm.
 )
 LaTeX Font Info:    Font shape `U/msa/m/n' will be
-(Font)              scaled to size 12.50409pt on input line 37.
+(Font)              scaled to size 10.42007pt on input line 37.
 LaTeX Font Info:    Font shape `U/msa/m/n' will be
-(Font)              scaled to size 9.37807pt on input line 37.
+(Font)              scaled to size 7.91925pt on input line 37.
 LaTeX Font Info:    Font shape `U/msa/m/n' will be
-(Font)              scaled to size 7.29405pt on input line 37.
+(Font)              scaled to size 6.25204pt on input line 37.
 LaTeX Font Info:    Font shape `U/msb/m/n' will be
-(Font)              scaled to size 12.50409pt on input line 37.
+(Font)              scaled to size 10.42007pt on input line 37.
 LaTeX Font Info:    Font shape `U/msb/m/n' will be
-(Font)              scaled to size 9.37807pt on input line 37.
+(Font)              scaled to size 7.91925pt on input line 37.
 LaTeX Font Info:    Font shape `U/msb/m/n' will be
-(Font)              scaled to size 7.29405pt on input line 37.
+(Font)              scaled to size 6.25204pt on input line 37.
 LaTeX Font Info:    Try loading font information for OT1+zplm on input line 37.
 
 
@@ -734,12 +760,12 @@ LaTeX Font Warning: Some font shapes were not available, defaults substituted.
 
  ) 
 Here is how much of TeX's memory you used:
- 12260 strings out of 493005
- 253208 string characters out of 6137955
- 336589 words of memory out of 5000000
- 16167 multiletter control sequences out of 15000+600000
- 10582 words of font info for 41 fonts, out of 8000000 for 9000
+ 12274 strings out of 493005
+ 253445 string characters out of 6137955
+ 331637 words of memory out of 5000000
+ 16173 multiletter control sequences out of 15000+600000
+ 10598 words of font info for 43 fonts, out of 8000000 for 9000
  1348 hyphenation exceptions out of 8191
- 35i,14n,66p,10376b,331s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 35i,14n,66p,10376b,333s stack positions out of 5000i,500n,10000p,200000b,80000s
 
 Output written on template.pdf (2 pages).
